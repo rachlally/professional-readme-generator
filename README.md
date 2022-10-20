@@ -26,7 +26,8 @@ node index.js
 
 You will be asked a series of questions.  Include detailed responses for the generator.  Following the last prompt, a README.md will be added to your local machine.  The README generated follows all recommended guidelines and will include your input from the command-line.
 
-For a demo of README generator: https://drive.google.com/file/d/1poEaMPqbGCdFwsoVJG6einpSBTjGqFIh/view 
+For a demo of README generator: https://drive.google.com/file/d/1poEaMPqbGCdFwsoVJG6einpSBTjGqFIh/view . 
+
 For a sample README, navigate to the readme_sample folder.  Click on the README.md file.
 
 ## Credits
