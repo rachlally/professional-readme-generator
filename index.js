@@ -23,7 +23,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "Please write a short description of your project.",
+        message: "Write a short description of your project:",
         name: "description"
     },
     {
@@ -34,12 +34,12 @@ const questions = [
     },
     {
         type: "input",
-        message: "What command should be run to install dependencies?",
+        message: "What are the steps required to install your project?",
         name: "installation"
     },
     {
         type: "input",
-        message: "What command should be used to run tests?",
+        message: "What tests are available for your application?",
         name: "tests"
     },
     {
