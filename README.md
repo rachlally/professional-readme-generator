@@ -1,4 +1,4 @@
-# tester
+# generator
 ![MIT badge](https://img.shields.io/badge/License-MIT-blue)
 
 ## Description
@@ -19,7 +19,7 @@ none
 To install necessary dependencies, run the following command:
 
 ```
-npm
+noe
 ```
 
 ## Usage
@@ -32,17 +32,17 @@ none
 
 ## Contribution 
 
-they cannot
+none
 
 ## Tests
 
 To test, run the following:
 
 ```
-npm
+noe
 ```
 
 ## Questions
 
-If you have additional questions, reach me at rlally89.  To view more of my work, visit [rachlally](https://github.com/rachlally/).
+If you have additional questions, reach me at gmail.  To view more of my work, visit [rachlally](https://github.com/rachlally/).
 

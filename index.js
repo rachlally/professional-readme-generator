@@ -18,12 +18,12 @@ const questions = [
     },
     {
         type: "input",
-        message: "What is your project's name?",
-        name: "project"
+        message: "What is your project's title?",
+        name: "title"
     },
     {
         type: "input",
-        message: "Please write a short description of your project:",
+        message: "Please write a short description of your project.",
         name: "description"
     },
     {
