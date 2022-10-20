@@ -7,17 +7,25 @@ Following the completion of a big project, some developers may dread the (actual
 
 The Professional README Generator helps streamline this process.  With the command-line application, it is easy to integrate into any project.  The application prompts users through a series of questions so they spend less time looking up README requirements and more time enjoying their finished product. 
 
-I learned more about node.js and using the command-line.  I learned how to link in packages from npm.  
+I learned more about node.js and using the command-line.  I learned how to link in packages from npm.  I also dove further into README's including installation, tests, and license options.
 
 ## Installation
 
-To install, the following packages are required: Inquirer, fs, path, and 
+For installation, clone the repository to Clone the Professional README Generator repo to local machine and add to desired project.  Run npm install for required packages (Inquirer).
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Pull the repository to your local machine: 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+Once installed, navigate to the command-line, enter: 
+
+```bash
+node index.js
+```  
+
+You will be asked a series of questions.  Include detailed responses for the generator.  Following the last prompt, a README.md will be added to your local machine.  The README generated follows all recommended guidelines and will include your input from the command-line.
+
+
 
 ![alt text](assets/images/screenshot.png)
 
@@ -35,5 +43,5 @@ Read full license, available in LICENSE file.
 
 ## How to Contribute
 
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+If you would like to contribute, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
 
