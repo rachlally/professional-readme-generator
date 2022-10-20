@@ -22,7 +22,7 @@ function renderLicenseSection(license) {
   if(license !== "None"){
     return `## License
     
-  This project is licensed by the ${license} license.`
+This project is licensed by the ${license} license.`
   }
   return ''
 }
@@ -47,7 +47,7 @@ ${renderLicenseLink(data.license)}
 
 ## Installation
 
-To install necessary dependencies, run the following command:
+To install:
 
 \`\`\`
 ${data.installation}
@@ -73,7 +73,7 @@ ${data.tests}
 
 ## Questions
 
-If you have additional questions, reach me at ${data.email}.  To view more of my work, visit [${data.github}](https://github.com/${data.github}/).
+If you have questions, you can reach me at ${data.email}.  To view more of my work, visit [${data.github}](https://github.com/${data.github}/).
 
 `;
 }
